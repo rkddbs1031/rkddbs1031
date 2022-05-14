@@ -4,7 +4,7 @@
  -->
  
 ### 😎 My Profile
-develop Blog
+develop Blog [Velog](https://velog.io/@kxun_ii)
 
 </br>
 

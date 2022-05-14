@@ -4,7 +4,8 @@
  -->
  
 ### 😎 My Profile
-develop Blog [Velog](https://velog.io/@kxun_ii)
+📌 Develop Blog 
+[<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Velog&logoColor=white"/></a>](https://velog.io/@kxun_ii)
 
 </br>
 

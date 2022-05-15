@@ -20,5 +20,6 @@
 <img src="https://img.shields.io/badge/Axios-DA291C?style=flat-square&logo=Axios&logoColor=white"/></a>
 </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat-square&logo=Recoil&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 

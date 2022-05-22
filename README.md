@@ -1,13 +1,6 @@
 ## Hello, I'm Kangyoon 🥰
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kangyoon's Introduce&fontSize=40)
+I'm Lee kangyoon,Frontend-Developer :)
 
- -->
- 
-### 😎 My Profile
-👇 Develop Blog  </br> 
-[<img src="https://img.shields.io/badge/Velog-4FC08D?style=flat-square&logo=Velog&logoColor=white"/></a>](https://velog.io/@kxun_ii)
-
-</br>
 
 ### ⚡ My Skill Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>

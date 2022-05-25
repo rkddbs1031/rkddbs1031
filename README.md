@@ -1,4 +1,4 @@
-## Hello, I'm Kangyoon 🥰
+## Hello🥰
 I'm Lee kangyoon,Frontend-Developer :)
 
 
